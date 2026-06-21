@@ -33,17 +33,17 @@
     <td align="center" width="33%">
       <b>rust</b><br>
       <sub>peak</sub><br>
-      <code>●●●○○</code>
+      <code>●●●●○</code>
     </td>
     <td align="center" width="33%">
-      <b>go</b><br>
+      <b>zig</b><br>
       <sub>goated</sub><br>
       <code>●●●○○</code>
     </td>
     <td align="center" width="33%">
-      <b>haskell</b><br>
+      <b>go</b><br>
       <sub>peak</sub><br>
-      <code>●○○○○</code>
+      <code>●●○○○</code>
     </td>
   </tr>
 </table>
