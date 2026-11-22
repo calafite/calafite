@@ -5,7 +5,7 @@
 // knowing a little about a lot is entertaining, you must admit.
 ```
 
-🟢 **currently learning:** `haskell`
+🟢 **currently learning:** `odin`
 
 ---
 
@@ -41,9 +41,9 @@
       <code>●●●○○</code>
     </td>
     <td align="center" width="33%">
-      <b>go</b><br>
-      <sub>very rusty</sub><br>
-      <code>●●○○○</code>
+      <b>haskell</b><br>
+      <sub>passion</sub><br>
+      <code>●●●●○</code>
     </td>
   </tr>
 </table>
